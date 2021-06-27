@@ -1,0 +1,88 @@
+{
+  "cloths": [
+    {
+      "id": 1,
+      "name": "French Terry Eşofman Altı ",
+      "stock": 10,
+      "price": 229.9,
+      "image": "https://productimages.hepsiburada.net/s/60/1500/110000001424673.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bisiklet Yaka Örme Tişört",
+      "stock": 10,
+      "price": 69.9,
+      "image": "https://productimages.hepsiburada.net/s/92/1000/110000034941273.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Renk Bloklu Polo Yaka Tişört",
+      "stock": 10,
+      "price": 93.7,
+      "image": "https://productimages.hepsiburada.net/l/57/1000/11279874981938.jpg"
+    },
+    {
+      "id": 4,
+      "name": " Koyu Yeşil Polo Yaka T-Shirt",
+      "stock": 10,
+      "price": 99.95,
+      "image": "https://productimages.hepsiburada.net/s/74/1000/110000016149411.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Halter Yaka Basic Body",
+      "stock": 10,
+      "price": 29.9,
+      "image": "https://productimages.hepsiburada.net/s/42/1000/10737536401458.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Doğal Dokulu Şort",
+      "stock": 10,
+      "price": 49.9,
+      "image": "https://productimages.hepsiburada.net/s/44/1000/10806272786482.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kolu Fırfırlı Delikli Bluz ",
+      "stock": 10,
+      "price": 68.8,
+      "image": "https://productimages.hepsiburada.net/s/44/1000/10805957099570.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Air Hoodie Sweat",
+      "stock": 10,
+      "price": 521,
+      "image": "https://productimages.hepsiburada.net/s/47/1500/10904779063346.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Pro Alpha Spor Büstiyer ",
+      "stock": 10,
+      "price": 299,
+      "image": "https://productimages.hepsiburada.net/s/83/1500/110000025695431.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Running Swoosh Shorts In Black ",
+      "stock": 10,
+      "price": 294,
+      "image": "https://productimages.hepsiburada.net/s/82/1500/110000024992123.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Flex Stride Şort",
+      "stock": 10,
+      "price": 187.9,
+      "image": "https://productimages.hepsiburada.net/s/40/1500/10657069858866.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Dry Parkis Pant Alt",
+      "stock": 10,
+      "price": 207,
+      "image": "https://productimages.hepsiburada.net/s/22/1500/9988216946738.jpg"
+    }
+  ]
+}
