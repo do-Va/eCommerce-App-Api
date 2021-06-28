@@ -5,84 +5,84 @@
       "name": "French Terry Eşofman Altı ",
       "stock": 10,
       "price": 229.9,
-      "image": "./img/1.png"
+      "image": "https://res.cloudinary.com/dova/image/upload/v1624882510/eCommerce/1_vmbeyq.png"
     },
     {
       "id": 2,
       "name": "Bisiklet Yaka Örme Tişört",
       "stock": 10,
       "price": 69.9,
-      "image": "./img/2.png"
+      "image": "https://res.cloudinary.com/dova/image/upload/v1624882515/eCommerce/2_xahoxz.png"
     },
     {
       "id": 3,
       "name": "Renk Bloklu Polo Yaka Tişört",
       "stock": 10,
       "price": 93.7,
-      "image": "./img/3.png"
+      "image": "https://res.cloudinary.com/dova/image/upload/v1624882520/eCommerce/3_nv1z72.png"
     },
     {
       "id": 4,
       "name": " Koyu Yeşil Polo Yaka T-Shirt",
       "stock": 10,
       "price": 99.95,
-      "image": "./img/4.png"
+      "image": "https://res.cloudinary.com/dova/image/upload/v1624882510/eCommerce/4_nna0uf.png"
     },
     {
       "id": 5,
       "name": "Halter Yaka Basic Body",
       "stock": 10,
       "price": 29.9,
-      "image": "./img/5.png"
+      "image": "https://res.cloudinary.com/dova/image/upload/v1624882518/eCommerce/5_ergawj.png"
     },
     {
       "id": 6,
       "name": "Doğal Dokulu Şort",
       "stock": 10,
       "price": 49.9,
-      "image": "./img/6.png"
+      "image": "https://res.cloudinary.com/dova/image/upload/v1624882516/eCommerce/6_z6ucit.png"
     },
     {
       "id": 7,
       "name": "Kolu Fırfırlı Delikli Bluz ",
       "stock": 10,
       "price": 68.8,
-      "image": "./img/7.png"
+      "image": "https://res.cloudinary.com/dova/image/upload/v1624882509/eCommerce/7_brwdpu.png"
     },
     {
       "id": 8,
       "name": "Air Hoodie Sweat",
       "stock": 10,
       "price": 521,
-      "image": "./img/8.png"
+      "image": "https://res.cloudinary.com/dova/image/upload/v1624882507/eCommerce/8_szlc2u.png"
     },
     {
       "id": 9,
       "name": "Pro Alpha Spor Büstiyer ",
       "stock": 10,
       "price": 299,
-      "image": "./img/9.png"
+      "image": "https://res.cloudinary.com/dova/image/upload/v1624882523/eCommerce/9_jewutv.png"
     },
     {
       "id": 10,
       "name": "Running Swoosh Shorts In Black ",
       "stock": 10,
       "price": 294,
-      "image": "./img/10.png"
+      "image": "https://res.cloudinary.com/dova/image/upload/v1624882507/eCommerce/10_rc1kpr.png"
     },
     {
       "id": 11,
       "name": "Flex Stride Şort",
       "stock": 10,
       "price": 187.9,
-      "image": "./img/11.png"
+      "image": "https://res.cloudinary.com/dova/image/upload/v1624882505/eCommerce/11_upgxdy.png"
     },
     {
       "id": 12,
       "name": "Dry Parkis Pant Alt",
       "stock": 10,
       "price": 207,
-      "image": "./img/12.png"
+      "image": "https://res.cloudinary.com/dova/image/upload/v1624882511/eCommerce/12_xvzg9u.png"
     }
   ]
 }
